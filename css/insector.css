@@ -60,3 +60,7 @@
 .reverse {
     flex-direction: row-reverse;
 }
+.feature-img {
+    width: 280px;
+    max-width: 100%;
+}

@@ -70,6 +70,11 @@
     margin-top: 25px;
 }
 
+.feature-img{
+    width:280px;
+    max-width:100%;
+}
+
 .movie {
     width: 930px;
     max-width: 90%;

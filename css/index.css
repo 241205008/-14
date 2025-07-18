@@ -250,3 +250,9 @@ img {
     width: 280px;
     max-width: 100%;
 }
+
+/* ここで色を変える */
+body {
+    background-color: #ffffff; /*背景の色*/
+    color: #000000; /*文字の色*/
+}

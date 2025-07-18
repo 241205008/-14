@@ -101,6 +101,7 @@ nav.floating {
     margin-top: 100px;
 }
 
+/* スマホ用 */
 @media (max-width: 800px) {
     .member-list {
         padding-left: 20px;
@@ -123,7 +124,7 @@ nav.floating {
         margin-right: 0;
     }
     .feature-img {
-        width: 100%;
+        width: 75%;
         max-width: 100%;
         height: auto;
         display: block;
